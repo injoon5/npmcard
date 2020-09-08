@@ -1,20 +1,20 @@
 {
-  "name": "natterstefan",
+  "name": "injoon5",
   "version": "1.1.0",
-  "description": "Stefan Natter (@natterstefan)'s business card",
+  "description": "injoon5's npm card.",
   "main": "./bin/card.js",
   "bin": {
     "natterstefan": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/natterstefan/businesscard.git"
+    "url": "https://github.com/injoon5/npmcard.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0"
   },
   "keywords": [],
-  "author": "Stefan Natter",
+  "author": "Injoon Oh",
   "license": "MIT",
   "dependencies": {
     "boxen": "^4.1.0",
