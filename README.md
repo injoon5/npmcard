@@ -1,4 +1,4 @@
-It's me, injoon5!
+<img alt="GitHub package.json version" src="https://img.shields.io/github/package-json/v/injoon5/npmcard?color=green"><img alt="npm" src="https://img.shields.io/npm/v/injoon5?color=green"><img alt="GitHub stars" src="https://img.shields.io/github/stars/injoon5/npmcard"><img alt="GitHub watchers" src="https://img.shields.io/github/watchers/injoon5/npmcard">
 
 # Usage
 
