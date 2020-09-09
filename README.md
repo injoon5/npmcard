@@ -1,9 +1,9 @@
-It's me, Stefan!
+It's me, injoon5!
 
 # Usage
 
 ```bash
-npx natterstefan
+npx injoon5
 ```
 
 # Credit
