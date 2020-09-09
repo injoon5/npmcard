@@ -2,6 +2,7 @@
 
 # Usage
 
+(install npm)
 ```bash
 npx injoon5
 ```
